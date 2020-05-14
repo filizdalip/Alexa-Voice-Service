@@ -10,3 +10,13 @@ You will need:
     - USB Sound microphone
     - HDMI Cable
 	- Ethernet Cable
+
+## Steps to be taken
+
+    - Open raspberry pi terminal (in Rasbian)
+	- Type "cd/opt" command
+    - Type "sudo apt-get install git"
+    - Clone clusters with this extension "sudo git clone https://github.com/filizdalip/Alexa-Voice-Service"
+	- Enter the information of the product you created on the terminal via https://developer.amazon.com/
+	- We are installing the "sudo ./AlexaPi/src/scripts/setup.sh" file
+	- Finally, we make the necessary settings from the sudo raspi-config screen and reboot the raspberry pi.
