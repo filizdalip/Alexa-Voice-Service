@@ -12,7 +12,7 @@ You will need:
 	- Ethernet Cable
 	
 	![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](C:\Users\Filiz\Desktop\Gömülü Sistemler\resimler)
+Format: ![Alt Text](https://drive.google.com/file/d/15-lWNKef1sWt4LayppNnGmkksh8kBfFp/view?usp=sharing)
 
 ## Steps to be taken
 
