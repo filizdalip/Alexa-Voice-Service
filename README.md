@@ -23,8 +23,8 @@ You will need:
 	- We are installing the "sudo ./AlexaPi/src/scripts/setup.sh" file
 	- Finally, we make the necessary settings from the sudo raspi-config screen and reboot the raspberry pi.
 	
-	![Alt Text](/images/1.png)
-	![Alt Text](/images/2.png)
+	![Alt Text](/images/1_17b6f79f-c869-41d9-b429-4dae36e70707.png)
+	![Alt Text](/images/2_17b6f79f-c869-41d9-b429-4dae36e70707.png)
 	![Alt Text](/images/3.png)
 	![Alt Text](/images/4.png)
 	![Alt Text](/images/5.png)
