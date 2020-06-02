@@ -41,4 +41,4 @@ You will need:
 ![Alt Text](/images/13.png)
 
 ## Result video
-[![Watch the video](/images/VID-20200508-WA0008.mp4)
+[![Watch the video](/images/VID-20200508-WA0008.mp4)]
