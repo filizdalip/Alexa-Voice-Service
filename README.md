@@ -24,7 +24,7 @@ You will need:
 	- Finally, we make the necessary settings from the sudo raspi-config screen and reboot the raspberry pi.
 
 
-## Steps
+## Steps with screenshots
 	
 ![Alt Text](/images/1_17b6f79f-c869-41d9-b429-4dae36e70707.png)
 ![Alt Text](/images/2_17b6f79f-c869-41d9-b429-4dae36e70707.png)
@@ -39,4 +39,6 @@ You will need:
 ![Alt Text](/images/11.png)
 ![Alt Text](/images/12.png)
 ![Alt Text](/images/13.png)
-![Alt Text](/images/VID-20200508-WA0008.mp4)
+
+## Result video
+[![Watch the video](/images/VID-20200508-WA0008.mp4)
