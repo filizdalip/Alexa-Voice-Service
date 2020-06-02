@@ -41,4 +41,4 @@ You will need:
 ![Alt Text](/images/13.png)
 
 ## Result video
-[![Watch the video](/images/3.png)](https://drive.google.com/file/d/1oNlQYU0x6v0lL49rl9v7znumFpHRbXnw/view?usp=sharing)
+[![Watch the video](/images/4d7879049736de0fc394cb31686bb6c9.gif)](https://drive.google.com/file/d/1oNlQYU0x6v0lL49rl9v7znumFpHRbXnw/view?usp=sharing)
