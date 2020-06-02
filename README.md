@@ -10,6 +10,9 @@ You will need:
     - USB Sound microphone
     - HDMI Cable
 	- Ethernet Cable
+	
+	![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](C:\Users\Filiz\Desktop\Gömülü Sistemler\resimler)
 
 ## Steps to be taken
 
