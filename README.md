@@ -11,8 +11,7 @@ You will need:
     - HDMI Cable
 	- Ethernet Cable
 	
-	![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://drive.google.com/file/d/15-lWNKef1sWt4LayppNnGmkksh8kBfFp/view?usp=sharing)
+Format: ![Alt Text](/images/17b6f79f-c869-41d9-b429-4dae36e70707.jpg)
 
 ## Steps to be taken
 
